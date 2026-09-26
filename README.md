@@ -47,5 +47,5 @@ that mirror real production engineering challenges rather than isolated tutorial
 
 ### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · [Resume/Portfolio link if you have one]
+[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/karthik-venugopal0703/)) 
 
